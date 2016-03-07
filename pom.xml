@@ -6,6 +6,10 @@
     <artifactId>hoverfly-jrecorder</artifactId>
     <version>0.1.2-SNAPSHOT</version>
 
+    <name>Hoverfly Java Recorder</name>
+    <description>Servlet filter which records requests and responses then outputs them to JSON</description>
+    <url>https://github.com/SpectoLabs/hoverfly-jrecorder</url>
+
     <scm>
         <developerConnection>scm:git:git@github.com:SpectoLabs/hoverfly-jrecorder.git</developerConnection>
         <connection>scm:git:git@github.com:SpectoLabs/hoverfly-jrecorder.git</connection>
