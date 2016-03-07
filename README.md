@@ -4,8 +4,7 @@
 -----------------
 
 
-**Quick start**
-------------------
+##Quick start
 
 Simply add the filter to your tests (MockMvc in this example) `hoverflyFilter`:
 
@@ -39,3 +38,11 @@ The filter takes the baseUrl which you wish your virtualized version of this ser
 ```
 
 You can then import the filter into hoverfly, for example using the hoverfly junit rule in your api consumer unit tests.
+
+##Maven
+
+```xml
+<groupId>io.specto</groupId>
+<artifactId>hoverfly-junit</artifactId>
+<version>0.1.1</version>
+```
