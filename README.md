@@ -43,6 +43,6 @@ You can then import the filter into hoverfly, for example using the hoverfly jun
 
 ```xml
 <groupId>io.specto</groupId>
-<artifactId>hoverfly-junit</artifactId>
-<version>0.1.1</version>
+<artifactId>hoverfly-jrecorder</artifactId>
+<version>0.1.2</version>
 ```
