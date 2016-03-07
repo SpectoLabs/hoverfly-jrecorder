@@ -4,7 +4,6 @@
 
     <groupId>io.specto</groupId>
     <artifactId>hoverfly-jrecorder</artifactId>
-    <packaging>pom</packaging>
     <version>0.1.1-SNAPSHOT</version>
 
     <scm>
@@ -75,6 +74,7 @@
                     <source>1.8</source>
                     <target>1.8</target>
                 </configuration>
+                <version>3.3</version>
             </plugin>
         </plugins>
     </build>
