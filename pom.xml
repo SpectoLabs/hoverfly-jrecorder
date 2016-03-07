@@ -4,7 +4,7 @@
 
     <groupId>io.specto</groupId>
     <artifactId>hoverfly-jrecorder</artifactId>
-    <version>0.1.2</version>
+    <version>0.1.3-SNAPSHOT</version>
 
     <name>Hoverfly Java Recorder</name>
     <description>Servlet filter which records requests and responses then outputs them to JSON</description>
