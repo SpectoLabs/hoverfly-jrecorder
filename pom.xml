@@ -4,7 +4,7 @@
 
     <groupId>io.specto</groupId>
     <artifactId>hoverfly-jrecorder</artifactId>
-    <version>0.1.1</version>
+    <version>0.1.2-SNAPSHOT</version>
 
     <scm>
         <developerConnection>scm:git:git@github.com:SpectoLabs/hoverfly-jrecorder.git</developerConnection>
